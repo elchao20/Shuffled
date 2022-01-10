@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/rec">
+        <file>Cropped.png</file>
+        <file>Rotated.png</file>
+    </qresource>
+</RCC>
